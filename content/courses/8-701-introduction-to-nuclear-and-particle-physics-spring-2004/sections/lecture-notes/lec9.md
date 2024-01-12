@@ -4,6 +4,7 @@ course_id: 8-701-introduction-to-nuclear-and-particle-physics-spring-2004
 description: ''
 file: null
 file_location: /coursemedia/8-701-introduction-to-nuclear-and-particle-physics-spring-2004/f71567332348fd2b0a5e8e5ab16ca5b1_lec9.pdf
+file_size: null
 file_type: application/pdf
 layout: pdf
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
